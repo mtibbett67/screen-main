@@ -1,2 +1,2 @@
 #! /bin/bash
-cp ./screen-main ~/.screenrc
+cp ./main ~/.screenrc

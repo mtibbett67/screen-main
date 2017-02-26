@@ -9,4 +9,4 @@ This file creates 5 connections
 
 Make the setup.sh executable with chmod +x
 
-Run setup.sh to copy the screen-mail to .screenrc in the current users home folder.
+Run setup.sh to copy the main to .screenrc in the current users home folder.
