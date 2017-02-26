@@ -6,3 +6,7 @@ This file creates 5 connections
 3. Htop
 4. Iftop
 5. NETSTAT with options
+
+Make the setup.sh executable with chmod +x
+
+Run setup.sh to copy the screen-mail to .screenrc in the current users home folder.
